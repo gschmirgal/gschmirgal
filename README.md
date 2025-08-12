@@ -28,7 +28,7 @@ Je suis un ingénieur logiciel passionné basé à Nîmes. Fort de mon expérien
 - [**MKMpy**](https://github.com/gschmirgal/mkmpy) : Un script permettant de recueillir le montant des cartes sur [**cardmarket**](https://www.cardmarket.com/fr/Magic) (vente de site de cartes mtg) et [**Scryfall**](https://scryfall.com/) (base de données sur les cartes mtg). Ces données sont stockées dans une base MySQL. (Cela peut permettre l'étude du prix des cartes)
 - [**MKMpy Front**](https://github.com/gschmirgal/frontMkmPy) : Front en PHP Symphony pour la base de données du précédent projet. Il utilise le CSS de bootstrap pour un design moderne.
 - [**SudokuVueJS**](https://github.com/gschmirgal/SudokuVueJS) : Un solveur de Sudoku en Vue.JS.
-- [**Intranet React](https://github.com/gschmirgal/intranet-react) : Rebuild d'un ancien projet de stage qui permet de générer un site d'intranet à partir d'un fichier JSON. (L'ancien etait en PHP et était généré depuis un XML)
+- [**Intranet React**](https://github.com/gschmirgal/intranet-react) : Rebuild d'un ancien projet de stage qui permet de générer un site d'intranet à partir d'un fichier JSON. (L'ancien etait en PHP et était généré depuis un XML)
 - D’autres projets arrivent bientôt… 👀
 
 ## 📫 Me contacter
