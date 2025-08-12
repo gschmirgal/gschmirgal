@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **gschmirgal/gschmirgal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👋 Salut, moi c’est Guillaume
+
+Bienvenue sur mon profil GitHub !  
+Je suis un ingénieur logiciel passionné basé à Nîmes. Fort de mon expérience PHP pure de plus de 10 ans, je me forme aussi sur de nouvelles technologies que je pratique autour de projets disponible ici.
+
+## 🛠️ Compétences techniques
+
+- **Langages** : PHP 🐘· Python 🐍 · JavaScript ⚡ · Java ☕ · Perl 🐫
+- **Frameworks & outils** : Symphony · React · Vue.js · Git · VScode
+
+## 🚀 Projets en cours ou récents
+
+- [**MKMpy**](https://github.com/gschmirgal/mkmpy) : Un script permettant de recueillir le montant des cartes sur [**cardmarket**](https://www.cardmarket.com/fr/Magic) (vente de site de cartes mtg) et les stocker dans une base MySQL.
+- [**MKMpy Front**](https://github.com/gschmirgal/frontMkmPy) : Front en PHP Symphony pour la base de données du précédent projet. Il utilise le CSS de bootstrap pour un design moderne.
+- [**SudokuVueJS**](https://github.com/gschmirgal/SudokuVueJS) : Un solveur de Sudoku en Vue.JS.
+- [**Intranet React](https://github.com/gschmirgal/intranet-react) : Rebuild d'un ancien projet de stage qui permet de générer un site d'intranet à partir d'un fichier JSON. (L'ancien etait en PHP et était généré depuis un XML)
+- D’autres projets arrivent bientôt… 👀
+
+## 📫 Me contacter
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/schmirgal/)
+- 📧 [Email](mailto:guillaume@example.com)
+
+
+---
+
+> “Dans l'doute reboot, si ça rate formate”  
