@@ -20,7 +20,7 @@ Je suis un ingénieur logiciel passionné basé à Nîmes. Fort de mon expérien
 
 ## 🛠️ Compétences techniques
 
-- **Langages** : PHP 🐘· Python 🐍 · JavaScript ⚡ · Java ☕ · Perl 🐫
+- **Langages** : PHP 🐘 · Python 🐍 · JavaScript ⚡ · Java ☕ · Perl 🐫
 - **Frameworks & outils** : Symphony · React · Vue.js · Git · VScode
 
 ## 🚀 Projets en cours ou récents
