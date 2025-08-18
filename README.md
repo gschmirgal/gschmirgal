@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # 👋 Salut, moi c’est Guillaume
 
 Bienvenue sur mon profil GitHub !  
-Je suis un ingénieur logiciel passionné basé à Nîmes. Fort de mon expérience PHP pure de plus de 10 ans, je me forme aussi sur de nouvelles technologies que je pratique autour de projets disponible ici.
+Je suis un ingénieur logiciel passionné basé à Nîmes. Fort de mon expérience PHP de plus de 10 ans, je me forme aussi sur de nouvelles technologies que je pratique autour de projets disponible ici.
 
 ## 🛠️ Compétences techniques
 
